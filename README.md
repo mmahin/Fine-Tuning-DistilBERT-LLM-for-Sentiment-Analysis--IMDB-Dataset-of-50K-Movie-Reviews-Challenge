@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ### 3. Run the Jupyter Notebook for model training and evaluation:
 ```
-upyter notebook fine_tune_distilbert.ipynb 
+jupyter notebook fine_tune_distilbert.ipynb 
 ```
 ## Requirements
 
