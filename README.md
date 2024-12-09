@@ -36,9 +36,9 @@ cd fine-tuning-distilbert-sentiment-analysis
 pip install -r requirements.txt
 ```
 
-### 3. Run the Jupyter Notebook or Python Script for model training and evaluation::
+### 3. Run the Jupyter Notebook for model training and evaluation:
 ```
-python fine_tune_distilbert.py
+upyter notebook fine_tune_distilbert.ipynb 
 ```
 ## Requirements
 
